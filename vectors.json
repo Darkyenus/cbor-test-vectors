@@ -3157,5 +3157,33 @@
   {
     "flags": ["invalid"],
     "hex": "bf000000ff"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "f900"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "fa0000"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "fb000000"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "5bffffffffffffffff010203"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "7b7fffffffffffffff010203"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "c0"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "9f81ff"
   }
 ]
