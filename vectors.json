@@ -165,16 +165,19 @@
   {
     "hex": "f90001",
     "flags": ["valid", "canonical", "float"],
+    "features": ["float16"],
     "diagnostic": "5.96046447753906e-8"
   },
   {
     "hex": "f90400",
     "flags": ["valid", "canonical", "float"],
+    "features": ["float16"],
     "diagnostic": "6.103515625e-5"
   },
   {
     "hex": "f9c400",
     "flags": ["valid", "canonical", "float"],
+    "features": ["float16"],
     "diagnostic": "-4.0"
   },
   {
@@ -2553,6 +2556,10 @@
   {
     "flags": ["invalid"],
     "hex": "bffe"
+  },
+  {
+    "flags": ["invalid"],
+    "hex": "bf00"
   },
   {
     "flags": ["invalid"],
